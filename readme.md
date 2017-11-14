@@ -4,6 +4,8 @@
 `npm install --save jquery`  
 `npm install --save-dev css-loader node-sass extract-text-webpack-plugin sass-loader style-loader webpack`
 
+[free photos](https://www.pexels.com/)
+
 ### Directory Structure.
 ```
 //Main File.
